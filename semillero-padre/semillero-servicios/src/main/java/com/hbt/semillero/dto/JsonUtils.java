@@ -3,7 +3,6 @@ package com.hbt.semillero.dto;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-
 /**
  * 
  * <b>Descripción:<b> Clase que determina las utilidades para convertir DTO de
